@@ -1,6 +1,7 @@
 # BoB-Challenge-1 Reimagine Customer Service with Generative AI
 
-**Idea:** BoB AI Assist - Your Personalized Banking Companion \n
+**Idea:** BoB AI Assist - Your Personalized Banking Companion 
+
 **Description:** BoB AI Assist is an intelligent virtual assistant that leverages Generative AI to provide customers with a personalized, conversational, and proactive banking experience across multiple channels (website, mobile app, WhatsApp, etc.).
 
 **Proposed Solution:**
