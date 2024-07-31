@@ -41,9 +41,10 @@ async def start():
     cl.user_session.set("agent", agent)
     cl.user_session.set("language", settings["Language"])
 
-    await cl.Message(
+    start_message = await cl.Message(
         author="Assistant", content=Config.GreetingMessage.format(CustomerName=settings["User"])
     ).send()
+    cl.user_session.set("start_message", start_message)
 
 @cl.on_settings_update
 async def setup_agent(settings):
@@ -51,6 +52,9 @@ async def setup_agent(settings):
     agent = Agent(settings["User"])
     cl.user_session.set("agent", agent)
     cl.user_session.set("language", settings["Language"])
+    start_message = cl.user_session.get("start_message")
+    start_message.content = Config.GreetingMessage.format(CustomerName=settings["User"])
+    await start_message.update()
 
 @cl.on_message
 async def main(message: cl.Message):
