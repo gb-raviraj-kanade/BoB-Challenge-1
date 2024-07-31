@@ -20,6 +20,9 @@ We have developed APIs for four sub-applications within two main applications. T
 
 To showcase functionality, we utilized LLMs to generate a dummy transaction database for ten customers. The database is editable for user testing, and it can be found at https://bobaiassist.centralindia.cloudapp.azure.com/database 
 
+A video demo is prepared around this. You can find the same at https://geekybeeai-my.sharepoint.com/:f:/g/personal/jay_manvar_geekyb_com/EvY9RYSIDk1IreQREt2C1hABw4ifvwG0lYyDUTiJgRzM5A?e=1szQce
+
+
 **1) AI-Powered Conversational Interface:**
 
 This category encompasses two applications: one for chat-based interaction and the other for handling customer calls. These applications demonstrate how customers can seamlessly connect with Bank of Baroda (BoB) without human intervention. 
