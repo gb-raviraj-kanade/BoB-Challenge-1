@@ -1,0 +1,631 @@
+Serial No,Customer Name,Customer Mobile Number,Customer Email,Account Number,Account Type,Customer Address,Branch Name,IFSC Code,MICR Code,Branch Address,Transaction Date,Transaction Time,Value Date,Description,Cheque Number,Debit,Credit,Balance
+1,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,05-01-2023,14:30:00,05-01-2023,ATM Withdrawal,,5000,,145000
+2,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,12-01-2023,11:45:00,12-01-2023,Online Shopping - Amazon,,3500,,141500
+3,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,18-01-2023,10:00:00,18-01-2023,Electricity Bill Payment,,2200,,139300
+4,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,22-01-2023,16:20:00,22-01-2023,Restaurant Payment,,1800,,137500
+5,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-01-2023,9:30:00,28-01-2023,Salary Credit,,,65000,202500
+6,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,02-02-2023,13:15:00,02-02-2023,Grocery Shopping,,3200,,199300
+7,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,09-02-2023,15:45:00,09-02-2023,Mobile Recharge,,999,,198301
+8,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,14-02-2023,11:30:00,14-02-2023,Gift Shop Purchase,,2500,,195801
+9,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,20-02-2023,14:00:00,20-02-2023,Gas Bill Payment,,850,,194951
+10,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,26-02-2023,17:30:00,26-02-2023,Movie Tickets,,600,,194351
+11,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-02-2023,9:30:00,28-02-2023,Salary Credit,,,65000,259351
+12,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,05-03-2023,10:45:00,05-03-2023,Health Insurance Premium,,12000,,247351
+13,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,11-03-2023,16:00:00,11-03-2023,Clothing Store Purchase,,4500,,242851
+14,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,17-03-2023,12:30:00,17-03-2023,Internet Bill Payment,,1200,,241651
+15,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,23-03-2023,14:15:00,23-03-2023,Pharmacy Purchase,,1800,,239851
+16,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-03-2023,9:30:00,28-03-2023,Salary Credit,,,65000,304851
+17,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,31-03-2023,23:59:59,31-03-2023,Quarterly Interest Credit,,,3048.51,307899.51
+18,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,04-04-2023,11:00:00,04-04-2023,ATM Withdrawal,,10000,,297899.51
+19,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,09-04-2023,13:30:00,09-04-2023,Restaurant Payment,,2200,,295699.51
+20,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,16-04-2023,15:45:00,16-04-2023,Electricity Bill Payment,,2400,,293299.51
+21,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,21-04-2023,10:30:00,21-04-2023,Online Shopping - Flipkart,,5500,,287799.51
+22,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-04-2023,9:30:00,28-04-2023,Salary Credit,,,65000,352799.51
+23,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,03-05-2023,14:00:00,03-05-2023,Grocery Shopping,,3800,,348999.51
+24,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,08-05-2023,16:30:00,08-05-2023,Mobile Recharge,,1499,,347500.51
+25,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,14-05-2023,11:15:00,14-05-2023,Home Appliance Purchase,,15000,,332500.51
+26,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,19-05-2023,13:45:00,19-05-2023,Gas Bill Payment,,900,,331600.51
+27,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,26-05-2023,17:00:00,26-05-2023,Book Store Purchase,,1200,,330400.51
+28,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-05-2023,9:30:00,28-05-2023,Salary Credit,,,65000,395400.51
+29,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,02-06-2023,10:30:00,02-06-2023,Health Insurance Premium,,12000,,383400.51
+30,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,07-06-2023,15:15:00,07-06-2023,Clothing Store Purchase,,3800,,379600.51
+31,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,13-06-2023,12:00:00,13-06-2023,Internet Bill Payment,,1200,,378400.51
+32,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,18-06-2023,14:30:00,18-06-2023,Pharmacy Purchase,,2200,,376200.51
+33,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,24-06-2023,16:45:00,24-06-2023,Restaurant Payment,,2500,,373700.51
+34,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-06-2023,9:30:00,28-06-2023,Salary Credit,,,65000,438700.51
+35,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,30-06-2023,23:59:59,30-06-2023,Quarterly Interest Credit,,,4387.01,443087.52
+36,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,05-07-2023,11:30:00,05-07-2023,ATM Withdrawal,,8000,,435087.52
+37,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,11-07-2023,13:00:00,11-07-2023,Online Shopping - Myntra,,4500,,430587.52
+38,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,16-07-2023,15:30:00,16-07-2023,Electricity Bill Payment,,2600,,427987.52
+39,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,21-07-2023,10:00:00,21-07-2023,Movie Tickets,,800,,427187.52
+40,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-07-2023,9:30:00,28-07-2023,Salary Credit,,,65000,492187.52
+41,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,03-08-2023,14:15:00,03-08-2023,Grocery Shopping,,4200,,487987.52
+42,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,08-08-2023,16:00:00,08-08-2023,Mobile Recharge,,1299,,486688.52
+43,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,14-08-2023,11:45:00,14-08-2023,Home 12or Purchase,,8500,,478188.52
+44,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,19-08-2023,13:30:00,19-08-2023,Gas Bill Payment,,950,,477238.52
+45,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,25-08-2023,17:15:00,25-08-2023,Gym Membership Fee,,6000,,471238.52
+46,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-08-2023,9:30:00,28-08-2023,Salary Credit,,,65000,536238.52
+47,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,02-09-2023,10:45:00,02-09-2023,Health Insurance Premium,,12000,,524238.52
+48,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,07-09-2023,15:30:00,07-09-2023,Clothing Store Purchase,,5200,,519038.52
+49,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,13-09-2023,12:15:00,13-09-2023,Internet Bill Payment,,1200,,517838.52
+50,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,18-09-2023,14:45:00,18-09-2023,Pharmacy Purchase,,1600,,516238.52
+51,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,24-09-2023,16:30:00,24-09-2023,Restaurant Payment,,3000,,513238.52
+52,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-09-2023,9:30:00,28-09-2023,Salary Credit,,,65000,578238.52
+53,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,30-09-2023,23:59:59,30-09-2023,Quarterly Interest Credit,,,5782.39,584020.91
+54,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,04-10-2023,11:15:00,04-10-2023,ATM Withdrawal,,12000,,572020.91
+55,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,09-10-2023,13:45:00,09-10-2023,Online Shopping - Amazon,,6500,,565520.91
+56,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,15-10-2023,15:00:00,15-10-2023,Electricity Bill Payment,,2800,,562720.91
+57,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,20-10-2023,10:30:00,20-10-2023,Car Service,,7500,,555220.91
+58,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-10-2023,9:30:00,28-10-2023,Salary Credit,,,65000,620220.91
+59,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,02-11-2023,14:30:00,02-11-2023,Grocery Shopping,,4500,,615720.91
+60,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,07-11-2023,16:15:00,07-11-2023,Mobile Recharge,,1599,,614121.91
+61,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,13-11-2023,11:00:00,13-11-2023,Furniture Purchase,,25000,,589121.91
+62,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,18-11-2023,13:15:00,18-11-2023,Gas Bill Payment,,1000,,588121.91
+63,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,24-11-2023,17:30:00,24-11-2023,Book Store Purchase,,1800,,586321.91
+64,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-11-2023,9:30:00,28-11-2023,Salary Credit,,,65000,651321.91
+65,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,03-12-2023,10:00:00,03-12-2023,Health Insurance Premium,,12000,,639321.91
+66,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,08-12-2023,15:45:00,08-12-2023,Clothing Store Purchase,,7000,,632321.91
+67,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,14-12-2023,12:30:00,14-12-2023,Internet Bill Payment,,1200,,631121.91
+68,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,19-12-2023,14:00:00,19-12-2023,Pharmacy Purchase,,2500,,628621.91
+69,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,25-12-2023,16:45:00,25-12-2023,Restaurant Payment,,3500,,625121.91
+70,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-12-2023,9:30:00,28-12-2023,Salary Credit,,,65000,690121.91
+71,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,31-12-2023,23:59:59,31-12-2023,Quarterly Interest Credit,,,6901.22,697023.13
+72,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,05-01-2024,11:45:00,05-01-2024,ATM Withdrawal,,15000,,682023.13
+73,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,11-01-2024,13:30:00,11-01-2024,Online Shopping - Flipkart,,8000,,674023.13
+74,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,17-01-2024,15:15:00,17-01-2024,Electricity Bill Payment,,3000,,671023.13
+75,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,22-01-2024,10:45:00,22-01-2024,Movie Tickets,,1000,,670023.13
+76,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-01-2024,9:30:00,28-01-2024,Salary Credit,,,65000,735023.13
+77,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,02-02-2024,14:00:00,02-02-2024,Grocery Shopping,,5000,,730023.13
+78,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,07-02-2024,16:30:00,07-02-2024,Mobile Recharge,,1799,,728224.13
+79,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,13-02-2024,11:15:00,13-02-2024,Gift Shop Purchase,,4000,,724224.13
+80,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,18-02-2024,13:45:00,18-02-2024,Gas Bill Payment,,1050,,723174.13
+81,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,24-02-2024,17:00:00,24-02-2024,Gym Membership Fee,,6000,,717174.13
+82,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-02-2024,9:30:00,28-02-2024,Salary Credit,,,65000,782174.13
+83,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,04-03-2024,10:30:00,04-03-2024,Health Insurance Premium,,12000,,770174.13
+84,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,09-03-2024,15:00:00,09-03-2024,Clothing Store Purchase,,6500,,763674.13
+85,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,15-03-2024,12:45:00,15-03-2024,Internet Bill Payment,,1200,,762474.13
+86,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,20-03-2024,14:15:00,20-03-2024,Pharmacy Purchase,,1800,,760674.13
+87,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,26-03-2024,16:30:00,26-03-2024,Restaurant Payment,,3200,,757474.13
+88,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-03-2024,9:30:00,28-03-2024,Salary Credit,,,65000,822474.13
+89,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,31-03-2024,23:59:59,31-03-2024,Quarterly Interest Credit,,,8224.74,830698.87
+90,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,04-04-2024,11:00:00,04-04-2024,ATM Withdrawal,,10000,,820698.87
+91,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,09-04-2024,13:15:00,09-04-2024,Online Shopping - Myntra,,7500,,813198.87
+92,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,15-04-2024,15:30:00,15-04-2024,Electricity Bill Payment,,3200,,809998.87
+93,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,20-04-2024,10:15:00,20-04-2024,Car Insurance Premium,,15000,,794998.87
+94,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-04-2024,9:30:00,28-04-2024,Salary Credit,,,65000,859998.87
+95,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,03-05-2024,14:45:00,03-05-2024,Grocery Shopping,,5500,,854498.87
+96,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,08-05-2024,16:00:00,08-05-2024,Mobile Recharge,,1999,,852499.87
+97,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,14-05-2024,11:30:00,14-05-2024,Home Appliance Purchase,,20000,,832499.87
+98,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,19-05-2024,13:00:00,19-05-2024,Gas Bill Payment,,1100,,831399.87
+99,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,25-05-2024,17:15:00,25-05-2024,Book Store Purchase,,2000,,829399.87
+100,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-05-2024,9:30:00,28-05-2024,Salary Credit,,,65000,894399.87
+101,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,02-06-2024,10:45:00,02-06-2024,Health Insurance Premium,,12000,,882399.87
+102,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,07-06-2024,15:30:00,07-06-2024,Clothing Store Purchase,,8000,,874399.9
+103,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,12-06-2024,12:00:00,12-06-2024,Restaurant Bill,,3500,,870899.87
+104,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,18-06-2024,14:30:00,18-06-2024,Internet Bill Payment,,1800,,869099.87
+105,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,23-06-2024,16:45:00,23-06-2024,Movie Tickets,,1000,,868099.87
+106,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-06-2024,9:30:00,28-06-2024,Salary Credit,,,65000,933099.87
+107,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,30-06-2024,23:59:59,30-06-2024,Quarterly Interest Credit,,,9330.99,942430.86
+108,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,05-07-2024,11:15:00,05-07-2024,Super03ket Purchase,,7500,,934930.86
+109,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,10-07-2024,13:30:00,10-07-2024,Gym Membership Renewal,,12000,,922930.86
+110,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,16-07-2024,15:00:00,16-07-2024,Electricity Bill Payment,,3500,,919430.86
+111,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,21-07-2024,10:30:00,21-07-2024,Online Course Subscription,,5000,,914430.86
+112,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,26-07-2024,14:15:00,26-07-2024,Fuel Purchase,,2000,,912430.86
+113,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,28-07-2024,9:30:00,28-07-2024,Salary Credit,,,65000,977430.86
+114,Customer1,1234500001,c1@gmail.com,1,Savings ,Customer_Address1,Branch1,BARB0IFSC1,MICR1,Branch_Address1,31-07-2024,17:00:00,31-07-2024,Cheque Deposit,123456,,15000,992430.86
+115,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-01-2024,9:30:00,15-01-2024,Cash Deposit,,,50000,50000
+116,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,18-01-2024,14:45:00,18-01-2024,ATM Withdrawal,,5000,,45000
+117,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,22-01-2024,11:20:00,22-01-2024,Online Shopping - Amazon,,2500,,42500
+118,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-01-2024,10:00:00,25-01-2024,Salary Credit,,,65000,107500
+119,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,28-01-2024,16:30:00,28-01-2024,Electricity Bill Payment,,1800,,105700
+120,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,02-02-2024,13:15:00,02-02-2024,Grocery Shopping,,3500,,102200
+121,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,07-02-2024,9:45:00,07-02-2024,Mobile Recharge,,999,,101201
+122,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-02-2024,11:30:00,15-02-2024,SIP Investment,,5000,,96201
+123,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,20-02-2024,14:00:00,20-02-2024,Restaurant Bill,,2800,,93401
+124,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-02-2024,10:00:00,25-02-2024,Salary Credit,,,65000,158401
+125,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,29-02-2024,16:45:00,29-02-2024,Electricity Bill Payment,,1750,,156651
+126,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,05-03-2024,12:30:00,05-03-2024,Fuel Refill,,2000,,154651
+127,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,10-03-2024,15:20:00,10-03-2024,Movie Tickets,,800,,153851
+128,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-03-2024,11:30:00,15-03-2024,SIP Investment,,5000,,148851
+129,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,20-03-2024,9:15:00,20-03-2024,Medical Expenses,,3500,,145351
+130,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-03-2024,10:00:00,25-03-2024,Salary Credit,,,65000,210351
+131,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,31-03-2024,23:59:00,31-03-2024,Quarterly Interest Credit,,,1668,212019
+132,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,03-04-2024,14:30:00,03-04-2024,Online Shopping - Flipkart,,4500,,207519
+133,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,08-04-2024,11:00:00,08-04-2024,Insurance Premium,,12000,,195519
+134,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-04-2024,11:30:00,15-04-2024,SIP Investment,,5000,,190519
+135,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,20-04-2024,16:15:00,20-04-2024,Electricity Bill Payment,,1900,,188619
+136,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-04-2024,10:00:00,25-04-2024,Salary Credit,,,65000,253619
+137,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,30-04-2024,13:45:00,30-04-2024,Cheque Deposit,123456,,25000,278619
+138,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,05-05-2024,9:30:00,05-05-2024,ATM Withdrawal,,10000,,268619
+139,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,12-05-2024,14:20:00,12-05-2024,Home Appliance Purchase,,15000,,253619
+140,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-05-2024,11:30:00,15-05-2024,SIP Investment,,5000,,248619
+141,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,22-05-2024,16:00:00,22-05-2024,Electricity Bill Payment,,1850,,246769
+142,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-05-2024,10:00:00,25-05-2024,Salary Credit,,,65000,311769
+143,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,01-06-2024,12:15:00,01-06-2024,Mobile Phone Purchase,,20000,,291769
+144,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,08-06-2024,15:30:00,08-06-2024,Restaurant Bill,,3500,,288269
+145,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-06-2024,11:30:00,15-06-2024,SIP Investment,,5000,,283269
+146,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,20-06-2024,9:45:00,20-06-2024,Grocery Shopping,,4000,,279269
+147,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-06-2024,10:00:00,25-06-2024,Salary Credit,,,65000,344269
+148,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,28-06-2024,16:30:00,28-06-2024,Electricity Bill Payment,,2100,,342169
+149,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,30-06-2024,23:59:00,30-06-2024,Quarterly Interest Credit,,,3368,345537
+150,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,05-07-2024,22:15:00,05-07-2024,Online Shopping - Myntra,,26983,,318554
+151,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,10-07-2024,11:00:00,10-07-2024,Fuel Refill,,2500,,316054
+152,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,15-07-2024,11:30:00,15-07-2024,SIP Investment,,5000,,311054
+153,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,20-07-2024,16:45:00,20-07-2024,Movie Tickets,,1000,,310054
+154,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,25-07-2024,10:00:00,25-07-2024,Salary Credit,,,65000,375054
+155,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,30-07-2024,13:30:00,30-07-2024,Electricity Bill Payment,,2050,,373004
+156,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,31-07-2024,22:17:00,31-07-2024,Online Shopping - Flipkart,,4500,,368504
+157,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,31-07-2024,22:18:00,31-07-2024,Online Shopping - Nayka,,5400,,363104
+158,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,31-07-2024,22:20:00,31-07-2024,Online Shopping - Amazon,,2800,,360304
+159,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,31-07-2024,22:22:00,31-07-2024,Online Shopping - Amazon,,3660,,356644
+160,Customer2,1234500002,c2@gmail.com,2,Savings ,Customer_Address2,Branch2,BARB0IFSC2,MICR2,Branch_Address2,31-07-2024,22:24:00,31-07-2024,Online Shopping - Amazon,,7123,,349521
+161,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,05-04-2024,14:30:00,05-04-2024,Electricity Bill Payment,,2150,,147850
+162,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,10-04-2024,11:45:00,10-04-2024,ATM Withdrawal,,5000,,142850
+163,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,15-04-2024,16:20:00,15-04-2024,Online Shopping - Amazon,,3500,,139350
+164,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,20-04-2024,10:00:00,20-04-2024,SIP Investment,,10000,,129350
+165,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,25-04-2024,9:30:00,25-04-2024,Salary Credit,,,85000,214350
+166,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,28-04-2024,13:15:00,28-04-2024,Grocery Shopping,,4500,,209850
+167,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,03-05-2024,15:45:00,03-05-2024,Mobile Recharge,,999,,208851
+168,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,08-05-2024,12:30:00,08-05-2024,Restaurant Bill,,2800,,206051
+169,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,12-05-2024,17:00:00,12-05-2024,Movie Tickets,,1200,,204851
+170,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,18-05-2024,10:30:00,18-05-2024,Gas Bill Payment,,850,,204001
+171,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,20-05-2024,9:45:00,20-05-2024,SIP Investment,,10000,,194001
+172,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,25-05-2024,9:30:00,25-05-2024,Salary Credit,,,85000,279001
+173,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,30-05-2024,14:00:00,30-05-2024,Cheque Deposit,123456,,15000,294001
+174,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,02-06-2024,11:20:00,02-06-2024,Car Insurance Premium,,12500,,281501
+175,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,07-06-2024,16:15:00,07-06-2024,Online Course Fee,,8000,,273501
+176,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,12-06-2024,13:45:00,12-06-2024,Clothing Purchase,,6500,,267001
+177,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,17-06-2024,10:10:00,17-06-2024,Health Checkup,,3500,,263501
+178,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,20-06-2024,9:50:00,20-06-2024,SIP Investment,,10000,,253501
+179,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,25-06-2024,9:30:00,25-06-2024,Salary Credit,,,85000,338501
+180,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,28-06-2024,15:30:00,28-06-2024,Flight Tickets,,18000,,320501
+181,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,30-06-2024,23:59:59,30-06-2024,Quarterly Interest Credit,,,3205.01,323706.01
+182,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,04-07-2024,12:00:00,04-07-2024,Property Tax Payment,,15000,,308706.01
+183,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,09-07-2024,14:20:00,09-07-2024,Home Appliance Purchase,,22000,,286706.01
+184,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,14-07-2024,11:30:00,14-07-2024,Charity Donation,,5000,,281706.01
+185,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,18-07-2024,16:45:00,18-07-2024,Vehicle Servicing,,4500,,277206.01
+186,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,20-07-2024,10:05:00,20-07-2024,SIP Investment,,10000,,267206.01
+187,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,25-07-2024,9:30:00,25-07-2024,Salary Credit,,,85000,352206.01
+188,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,29-07-2024,13:00:00,29-07-2024,Cheque Payment,789012,25000,,327206.01
+189,Customer3,1234500003,c3@gmail.com,3,Savings ,Customer_Address3,Branch3,BARB0IFSC3,MICR3,Branch_Address3,31-07-2024,17:30:00,31-07-2024,Internet Bill Payment,,1499,,325707.01
+190,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,18-06-2023,14:22:35,18-06-2023,ATM Withdrawal - HDFC Bank ATM Bandra,,5000,,45000
+191,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,22-06-2023,10:15:42,22-06-2023,NEFT-Amazon Refund,,,1200,46200
+192,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-06-2023,20:05:18,25-06-2023,UPI-Swiggy Food Order,,850,,45350
+193,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-06-2023,11:00:00,30-06-2023,Salary Credit,,,65000,110350
+194,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,02-07-2023,15:30:27,02-07-2023,Electricity Bill Payment-BEST,,2200,,108150
+195,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-07-2023,9:45:13,07-07-2023,SIP Investment-ICICI Prudential,,5000,,103150
+196,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,12-07-2023,16:20:55,12-07-2023,Mobile Recharge-Jio,,999,,102151
+197,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,18-07-2023,11:35:40,18-07-2023,Cheque Deposit,123456,,15000,117151
+198,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,24-07-2023,13:50:22,24-07-2023,POS Transaction-Shoppers Stop,,3500,,113651
+199,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-07-2023,11:00:00,30-07-2023,Salary Credit,,,65000,178651
+200,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,05-08-2023,14:15:30,05-08-2023,DTH Recharge-Tata Sky,,600,,178051
+201,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-08-2023,9:45:13,07-08-2023,SIP Investment-ICICI Prudential,,5000,,173051
+202,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-08-2023,18:30:45,13-08-2023,UPI-Zomato Food Order,,750,,172301
+203,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-08-2023,10:25:18,19-08-2023,IMPS Transfer to Rahul,,10000,,162301
+204,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-08-2023,16:40:33,25-08-2023,Amazon Shopping,,4500,,157801
+205,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-08-2023,11:00:00,30-08-2023,Salary Credit,,,65000,222801
+206,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,03-09-2023,12:10:25,03-09-2023,Electricity Bill Payment-BEST,,2350,,220451
+207,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-09-2023,9:45:13,07-09-2023,SIP Investment-ICICI Prudential,,5000,,215451
+208,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,14-09-2023,15:55:40,14-09-2023,Movie Tickets-BookMyShow,,1200,,214251
+209,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,20-09-2023,11:30:18,20-09-2023,Cheque Payment,789012,25000,,189251
+210,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,26-09-2023,17:20:55,26-09-2023,Flipkart Purchase,,3800,,185451
+211,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-09-2023,11:00:00,30-09-2023,Salary Credit,,,65000,250451
+212,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-09-2023,23:59:59,30-09-2023,Quarterly Interest Credit,,,2504.51,252955.51
+213,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-10-2023,13:45:30,04-10-2023,Mobile Bill Payment-Airtel,,899,,252056.51
+214,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-10-2023,9:45:13,07-10-2023,SIP Investment-ICICI Prudential,,5000,,247056.51
+215,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,12-10-2023,16:30:22,12-10-2023,POS Transaction-Reliance Digital,,15000,,232056.51
+216,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,18-10-2023,10:15:40,18-10-2023,NEFT Received from Priya,,,8000,240056.51
+217,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,24-10-2023,14:50:55,24-10-2023,Car Insurance Premium,,12000,,228056.51
+218,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-10-2023,11:00:00,30-10-2023,Salary Credit,,,65000,293056.51
+219,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,03-11-2023,15:20:18,03-11-2023,Electricity Bill Payment-BEST,,2100,,290956.51
+220,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-11-2023,9:45:13,07-11-2023,SIP Investment-ICICI Prudential,,5000,,285956.51
+221,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-11-2023,12:35:40,13-11-2023,UPI-BigBasket Groceries,,3500,,282456.51
+222,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-11-2023,17:10:25,19-11-2023,ATM Withdrawal - SBI ATM Andheri,,10000,,272456.51
+223,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-11-2023,11:45:33,25-11-2023,IMPS Transfer to Neha,,5000,,267456.51
+224,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-11-2023,11:00:00,30-11-2023,Salary Credit,,,65000,332456.51
+225,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-12-2023,14:30:22,04-12-2023,Mobile Recharge-Vodafone,,799,,331657.51
+226,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-12-2023,9:45:13,07-12-2023,SIP Investment-ICICI Prudential,,5000,,326657.51
+227,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,12-12-2023,16:55:40,12-12-2023,POS Transaction-Croma,,8000,,318657.51
+228,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,18-12-2023,10:20:18,18-12-2023,Cheque Deposit,345678,,20000,338657.51
+229,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,24-12-2023,13:40:55,24-12-2023,UPI-Myntra Shopping,,4500,,334157.51
+230,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-12-2023,11:00:00,30-12-2023,Salary Credit,,,65000,399157.51
+231,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,31-12-2023,23:59:59,31-12-2023,Quarterly Interest Credit,,,3991.58,403149.09
+232,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,03-01-2024,15:15:30,03-01-2024,Electricity Bill Payment-BEST,,2400,,400749.09
+233,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-01-2024,9:45:13,07-01-2024,SIP Investment-ICICI Prudential,,5000,,395749.09
+234,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-01-2024,17:30:22,13-01-2024,Amazon Prime Subscription,,1499,,394250.09
+235,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-01-2024,11:10:40,19-01-2024,NEFT-Income Tax Refund,,,12000,406250.09
+236,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-01-2024,14:45:55,25-01-2024,POS Transaction-Lifestyle,,6000,,400250.09
+237,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-01-2024,11:00:00,30-01-2024,Salary Credit,,,65000,465250.09
+238,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-02-2024,13:20:18,04-02-2024,Mobile Bill Payment-Jio,,799,,464451.09
+239,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-02-2024,9:45:13,07-02-2024,SIP Investment-ICICI Prudential,,5000,,459451.09
+240,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,12-02-2024,16:35:40,12-02-2024,UPI-Dominos Pizza,,750,,458701.09
+241,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,18-02-2024,10:50:25,18-02-2024,ATM Withdrawal - ICICI Bank ATM Juhu,,8000,,450701.09
+242,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,24-02-2024,15:15:33,24-02-2024,IMPS Transfer to Amit,,15000,,435701.09
+243,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,29-02-2024,11:00:00,29-02-2024,Salary Credit,,,65000,500701.09
+244,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-03-2024,14:40:22,04-03-2024,Electricity Bill Payment-BEST,,2250,,498451.09
+245,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-03-2024,9:45:13,07-03-2024,SIP Investment-ICICI Prudential,,5000,,493451.09
+246,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-03-2024,17:25:40,13-03-2024,POS Transaction-Westside,,4500,,488951.09
+247,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-03-2024,11:30:18,19-03-2024,Cheque Payment,901234,30000,,458951.09
+248,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-03-2024,16:50:55,25-03-2024,UPI-Uber Ride,,350,,458601.09
+249,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-03-2024,11:00:00,30-03-2024,Salary Credit,,,65000,523601.09
+250,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,31-03-2024,23:59:59,31-03-2024,Quarterly Interest Credit,,,5236.01,528837.1
+251,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-04-2024,15:10:30,04-04-2024,Mobile Recharge-Airtel,,999,,527838.1
+252,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-04-2024,9:45:13,07-04-2024,SIP Investment-ICICI Prudential,,5000,,522838.1
+253,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-04-2024,18:20:22,13-04-2024,UPI-Swiggy Food Order,,950,,521888.1
+254,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-04-2024,10:45:40,19-04-2024,NEFT Received from Sanjay,,,10000,531888.1
+255,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-04-2024,14:15:55,25-04-2024,POS Transaction-12athlon,,3500,,528388.1
+256,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-04-2024,11:00:00,30-04-2024,Salary Credit,,,65000,593388.1
+257,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,03-05-2024,13:30:18,03-05-2024,Electricity Bill Payment-BEST,,2300,,591088.1
+258,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-05-2024,9:45:13,07-05-2024,SIP Investment-ICICI Prudential,,5000,,586088.1
+259,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-05-2024,16:40:40,13-05-2024,Movie Tickets-PVR Cinemas,,1000,,585088.1
+260,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-05-2024,11:15:25,19-05-2024,ATM Withdrawal - Axis Bank ATM Powai,,7000,,578088.1
+261,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-05-2024,15:50:33,25-05-2024,IMPS Transfer to Sneha,,8000,,570088.1
+262,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-05-2024,11:00:00,30-05-2024,Salary Credit,,,65000,635089.1
+263,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-06-2024,14:25:22,04-06-2024,Mobile Bill Payment-Vodafone,,899,,634191.1
+264,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-06-2024,9:45:13,07-06-2024,SIP Investment-ICICI Prudential,,5000,,629192.1
+265,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-06-2024,17:35:40,13-06-2024,POS Transaction-H&M,,3500,,625693.1
+266,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-06-2024,10:50:18,19-06-2024,Cheque Deposit,567890,,25000,650694.1
+267,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-06-2024,16:20:55,25-06-2024,UPI-BigBasket Groceries,,4000,,646695.1
+268,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-06-2024,11:00:00,30-06-2024,Salary Credit,,,65000,711696.1
+269,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-06-2024,23:59:59,30-06-2024,Quarterly Interest Credit,,,7116.89,718813.99
+270,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,04-07-2024,15:40:30,04-07-2024,Electricity Bill Payment-BEST,,2500,,716314.99
+271,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,07-07-2024,9:45:13,07-07-2024,SIP Investment-ICICI Prudential,,5000,,711315.99
+272,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,13-07-2024,18:15:22,13-07-2024,Amazon Shopping,,5500,,705816.99
+273,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,19-07-2024,11:30:40,19-07-2024,NEFT-Freelance Payment,,,20000,725817.99
+274,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,25-07-2024,14:55:55,25-07-2024,POS Transaction-Tanishq,,50000,,775818.99
+275,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,30-07-2024,11:00:00,30-07-2024,Salary Credit,,,65000,840819.99
+276,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,31-07-2024,11:17:25,31-07-2024,ATM Withdrawal - Axis Bank ATM Powai,,7000,,833819.99
+277,Customer4,1234500004,c4@gmail.com,4,Savings ,Customer_Address4,Branch4,BARB0IFSC4,MICR4,Branch_Address4,31-07-2024,11:18:20,31-07-2024,ATM Withdrawal - Axis Bank ATM Shimla,,15000,,818819.99
+278,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,01-01-2024,9:15:00,01-01-2024,ATM Withdrawal - HDFC Bank ATM Bandra,,15000,,185000
+279,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,05-01-2024,14:30:00,05-01-2024,NEFT Transfer to Akash Sharma,,25000,,160000
+280,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,10-01-2024,11:45:00,10-01-2024,Electricity Bill Payment - BEST,,3500,,156500
+281,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-01-2024,10:00:00,15-01-2024,Salary Credit,,,75000,231500
+282,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,18-01-2024,16:20:00,18-01-2024,Amazon.in Purchase,,8900,,222600
+283,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-01-2024,13:10:00,22-01-2024,SIP Investment - ICICI Prudential,,10000,,212600
+284,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,28-01-2024,19:45:00,28-01-2024,Swiggy Food Order,,1200,,211400
+285,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,02-02-2024,11:30:00,02-02-2024,Mobile Recharge - Jio,,999,,210401
+286,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,07-02-2024,14:15:00,07-02-2024,Cheque Deposit,123456,,35000,245401
+287,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,12-02-2024,10:30:00,12-02-2024,Gas Bill Payment,,850,,244551
+288,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-02-2024,10:00:00,15-02-2024,Salary Credit,,,75000,319551
+289,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,19-02-2024,17:00:00,19-02-2024,IRCTC Train Ticket Booking,,3500,,316051
+290,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-02-2024,13:10:00,22-02-2024,SIP Investment - ICICI Prudential,,10000,,306051
+291,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,26-02-2024,12:45:00,26-02-2024,Flipkart Electronics Purchase,,22000,,284051
+292,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,03-03-2024,9:30:00,03-03-2024,ATM Withdrawal - SBI ATM Andheri,,20000,,264051
+293,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,08-03-2024,15:20:00,08-03-2024,Health Insurance Premium,,12000,,252051
+294,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,13-03-2024,11:00:00,13-03-2024,Electricity Bill Payment - BEST,,3800,,248251
+295,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-03-2024,10:00:00,15-03-2024,Salary Credit,,,75000,323251
+296,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,20-03-2024,14:30:00,20-03-2024,UPI Payment to Local Grocery Store,,5500,,317751
+297,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-03-2024,13:10:00,22-03-2024,SIP Investment - ICICI Prudential,,10000,,307751
+298,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,27-03-2024,16:45:00,27-03-2024,Myntra Clothing Purchase,,7800,,299951
+299,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,31-03-2024,23:59:00,31-03-2024,Quarterly Interest Credit,,,3000,302951
+300,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,04-04-2024,10:15:00,04-04-2024,Mobile Bill Payment - Airtel,,1299,,301652
+301,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,09-04-2024,12:30:00,09-04-2024,Cheque Payment,789012,18000,,283652
+302,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,14-04-2024,18:00:00,14-04-2024,Zomato Food Delivery,,1500,,282152
+303,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-04-2024,10:00:00,15-04-2024,Salary Credit,,,75000,357152
+304,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,19-04-2024,11:45:00,19-04-2024,DTH Recharge - Tata Sky,,6000,,351152
+305,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-04-2024,13:10:00,22-04-2024,SIP Investment - ICICI Prudential,,10000,,341152
+306,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,26-04-2024,15:30:00,26-04-2024,NEFT Transfer to Priya Patel,,30000,,311152
+307,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,02-05-2024,9:45:00,02-05-2024,ATM Withdrawal - ICICI Bank ATM Juhu,,20000,,291152
+308,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,07-05-2024,14:00:00,07-05-2024,Electricity Bill Payment - BEST,,9100,,282052
+309,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,12-05-2024,16:30:00,12-05-2024,Amazon Prime Subscription Renewal,,1499,,280553
+310,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-05-2024,10:00:00,15-05-2024,Salary Credit,,,75000,355553
+311,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,19-05-2024,11:20:00,19-05-2024,UPI Payment to Local Vegetable Vendor,,2000,,353553
+312,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-05-2024,13:10:00,22-05-2024,SIP Investment - ICICI Prudential,,10000,,343553
+313,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,27-05-2024,17:45:00,27-05-2024,IRCTC Flight Ticket Booking,,15000,,328553
+314,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,01-06-2024,10:30:00,01-06-2024,Gas Bill Payment,,950,,327603
+315,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,06-06-2024,12:15:00,06-06-2024,Cheque Deposit,345678,,40000,367603
+316,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,11-06-2024,15:00:00,11-06-2024,Mobile Recharge - Vodafone,,799,,366804
+317,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-06-2024,10:00:00,15-06-2024,Salary Credit,,,75000,441804
+318,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,19-06-2024,14:45:00,19-06-2024,Flipkart Fashion Purchase,,6500,,435304
+319,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-06-2024,13:10:00,22-06-2024,SIP Investment - ICICI Prudential,,10000,,425304
+320,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,26-06-2024,16:30:00,26-06-2024,Netflix Subscription Renewal,,649,,424655
+321,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,30-06-2024,23:59:00,30-06-2024,Quarterly Interest Credit,,,4250,428905
+322,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,04-07-2024,11:00:00,04-07-2024,Electricity Bill Payment - BEST,,4300,,424605
+323,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,09-07-2024,13:30:00,09-07-2024,UPI Payment to Local Pharmacy,,3500,,421105
+324,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,14-07-2024,17:15:00,14-07-2024,Swiggy Food Order,,1800,,419305
+325,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,15-07-2024,10:00:00,15-07-2024,Salary Credit,,,75000,494305
+326,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,19-07-2024,12:45:00,19-07-2024,DTH Recharge - Dish TV,,5500,,488805
+327,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,22-07-2024,13:10:00,22-07-2024,SIP Investment - ICICI Prudential,,10000,,478805
+328,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,31-07-2024,15:30:00,31-07-2024,Cash Deposit,,,1100000,1578805
+329,Customer5,1234500005,c5@gmail.com,5,Savings ,Customer_Address5,Branch5,BARB0IFSC5,MICR5,Branch_Address5,31-07-2024,18:00:00,31-07-2024,Amazon.in Electronics Purchase,,35000,,1543805
+330,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,15-09-2023,9:00:00,15-09-2023,Cash Deposit,,,50000,50000
+331,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,18-09-2023,14:30:15,18-09-2023,Medicine,,1200,,48800
+332,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,22-09-2023,11:45:30,22-09-2023,Shopping from local 03ket,,3500,,45300
+333,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,28-09-2023,16:20:45,28-09-2023,Electricity Bill Payment,,1800,,43500
+334,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,30-09-2023,9:15:00,30-09-2023,Salary Credit,,,65000,108500
+335,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,05-10-2023,10:30:20,05-10-2023,Grocery Shopping,,4200,,104300
+336,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,12-10-2023,13:45:30,12-10-2023,Mobile Recharge,,999,,103301
+337,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-10-2023,9:00:00,16-10-2023,SIP Investment,,5000,,98301
+338,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,20-10-2023,20:15:45,20-10-2023,Restaurant Bill,,2500,,95801
+339,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,26-10-2023,11:30:00,26-10-2023,Gas Bill Payment,,950,,94851
+340,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-10-2023,9:15:00,31-10-2023,Salary Credit,,,65000,159851
+341,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,03-11-2023,14:20:30,03-11-2023,Health Insurance Premium,,12000,,147851
+342,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,08-11-2023,16:45:00,08-11-2023,Online Course Payment,,8500,,139351
+343,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,13-11-2023,19:30:15,13-11-2023,Movie Tickets,,600,,138751
+344,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-11-2023,9:00:00,16-11-2023,SIP Investment,,5000,,133751
+345,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,21-11-2023,12:15:30,21-11-2023,Clothing Purchase,,3500,,130251
+346,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,27-11-2023,10:45:00,27-11-2023,Internet Bill Payment,,1200,,129051
+347,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,30-11-2023,9:15:00,30-11-2023,Salary Credit,,,65000,194051
+348,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,04-12-2023,11:30:45,04-12-2023,Car Service,,5000,,189051
+349,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,09-12-2023,15:20:00,09-12-2023,Gift Purchase,,2000,,187051
+350,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,14-12-2023,17:45:30,14-12-2023,Electricity Bill Payment,,1900,,185151
+351,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-12-2023,9:00:00,16-12-2023,SIP Investment,,5000,,180151
+352,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,20-12-2023,13:10:15,20-12-2023,Gym Membership Renewal,,12000,,168151
+353,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,26-12-2023,18:30:00,26-12-2023,Mobile Phone Purchase,,25000,,143151
+354,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,30-12-2023,9:15:00,30-12-2023,Salary Credit,,,65000,208151
+355,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-12-2023,23:59:59,31-12-2023,Quarterly Interest Credit,,,2081.51,210232.51
+356,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,02-01-2024,22:15:30,02-01-2024,New Year Party Expenses,,8000,,202232.51
+357,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,07-01-2024,10:30:00,07-01-2024,Flight Tickets,,15000,,187232.51
+358,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-01-2024,9:00:00,16-01-2024,SIP Investment,,5000,,182232.51
+359,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,21-01-2024,14:45:15,21-01-2024,Hotel Booking,,12000,,170232.51
+360,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,26-01-2024,11:20:30,26-01-2024,Gas Bill Payment,,980,,169252.51
+361,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-01-2024,9:15:00,31-01-2024,Salary Credit,,,65000,234252.51
+362,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,05-02-2024,16:30:45,05-02-2024,Grocery Shopping,,4500,,229752.51
+363,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,10-02-2024,12:15:00,10-02-2024,Home Appliance Purchase,,20000,,209752.51
+364,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,14-02-2024,9:45:30,14-02-2024,Mobile Recharge,,999,,208753.51
+365,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-02-2024,9:00:00,16-02-2024,SIP Investment,,5000,,203753.51
+366,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,22-02-2024,19:30:15,22-02-2024,Restaurant Bill,,3000,,200753.51
+367,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,27-02-2024,11:45:00,27-02-2024,Electricity Bill Payment,,1850,,198903.51
+368,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,29-02-2024,9:15:00,29-02-2024,Salary Credit,,,65000,263903.51
+369,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,04-03-2024,14:20:30,04-03-2024,Car Insurance Premium,,15000,,248903.51
+370,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,09-03-2024,10:30:00,09-03-2024,Online Shopping - Flipkart,,7500,,241403.51
+371,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,13-03-2024,18:45:15,13-03-2024,Movie Tickets,,750,,240653.51
+372,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-03-2024,9:00:00,16-03-2024,SIP Investment,,5000,,235653.51
+373,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,21-03-2024,12:15:30,21-03-2024,Clothing Purchase,,4000,,231653.51
+374,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,26-03-2024,15:30:45,26-03-2024,Internet Bill Payment,,1200,,230453.51
+375,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-03-2024,9:15:00,31-03-2024,Salary Credit,,,65000,295453.51
+376,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-03-2024,23:59:59,31-03-2024,Quarterly Interest Credit,,,2954.54,298408.05
+377,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,05-04-2024,11:30:00,05-04-2024,Home Re11ation Expenses,,50000,,248408.05
+378,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,10-04-2024,14:45:30,10-04-2024,Grocery Shopping,,5000,,243408.05
+379,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-04-2024,9:00:00,16-04-2024,SIP Investment,,5000,,238408.05
+380,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,20-04-2024,16:20:15,20-04-2024,Electronics Purchase,,30000,,208408.05
+381,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,25-04-2024,10:30:45,25-04-2024,Gas Bill Payment,,1000,,207408.05
+382,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,30-04-2024,9:15:00,30-04-2024,Salary Credit,,,65000,272408.05
+383,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,04-05-2024,13:45:30,04-05-2024,Health Check-up,,5000,,267408.05
+384,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,09-05-2024,17:30:00,09-05-2024,Gift Purchase,,3000,,264408.05
+385,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,13-05-2024,11:15:45,13-05-2024,Mobile Recharge,,999,,263409.05
+386,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-05-2024,9:00:00,16-05-2024,SIP Investment,,5000,,258409.05
+387,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,21-05-2024,19:45:30,21-05-2024,Restaurant Bill,,3500,,254909.05
+388,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,26-05-2024,12:30:15,26-05-2024,Electricity Bill Payment,,2000,,252909.05
+389,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-05-2024,9:15:00,31-05-2024,Salary Credit,,,65000,317909.05
+390,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,03-06-2024,10:30:45,03-06-2024,Vacation Expenses,,40000,,277909.05
+391,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,08-06-2024,14:15:00,08-06-2024,Grocery Shopping,,4800,,273109.05
+392,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,12-06-2024,16:45:30,12-06-2024,Online Course Payment,,10000,,263109.05
+393,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-06-2024,9:00:00,16-06-2024,SIP Investment,,5000,,258109.05
+394,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,21-06-2024,11:30:15,21-06-2024,Furniture Purchase,,25000,,233109.05
+395,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,26-06-2024,15:20:45,26-06-2024,Internet Bill Payment,,1200,,231909.05
+396,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,30-06-2024,9:15:00,30-06-2024,Salary Credit,,,65000,296909.05
+397,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,30-06-2024,23:59:59,30-06-2024,Quarterly Interest Credit,,,2969.09,299878.14
+398,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,04-07-2024,12:45:30,04-07-2024,Car Service,,6000,,293878.14
+399,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,09-07-2024,17:30:00,09-07-2024,Mobile Phone Purchase,,30000,,263878.14
+400,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,16-07-2024,9:00:00,16-07-2024,SIP Investment,,5000,,258878.14
+401,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,20-07-2024,20:15:45,20-07-2024,Restaurant Bill,,4000,,254878.14
+402,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,25-07-2024,11:30:00,25-07-2024,Gas Bill Payment,,1050,,253828.14
+403,Customer6,1234500006,c6@gmail.com,6,Savings ,Customer_Address6,Branch6,BARB0IFSC6,MICR6,Branch_Address6,31-07-2024,9:15:00,31-07-2024,Salary Credit,,,65000,318828.14
+404,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,03-11-2023,14:30:00,03-11-2023,ATM Withdrawal - Malad West,,5000,,120000
+405,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,07-11-2023,11:45:00,07-11-2023,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,98000
+406,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,12-11-2023,16:20:00,12-11-2023,UPI-ZOMATO-ORDER12345,,750,,97250
+407,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,18-11-2023,10:00:00,18-11-2023,Cheque Deposit,123456,,35000,132250
+408,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-11-2023,9:30:00,22-11-2023,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,119750
+409,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-11-2023,17:45:00,28-11-2023,Salary Credit,,,65000,184750
+410,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,30-11-2023,20:10:00,30-11-2023,Online Shopping - Amazon,,3500,,181250
+411,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,05-12-2023,13:25:00,05-12-2023,Electricity Bill Payment,,2200,,179050
+412,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,09-12-2023,11:30:00,09-12-2023,ATM Withdrawal - Andheri East,,7000,,172050
+413,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,14-12-2023,15:40:00,14-12-2023,UPI-SWIGGY-ORDER67890,,950,,171100
+414,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,19-12-2023,9:15:00,19-12-2023,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,149100
+415,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-12-2023,14:00:00,22-12-2023,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,136600
+416,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-12-2023,16:30:00,26-12-2023,Cheque Payment,789012,15000,,121600
+417,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-12-2023,9:30:00,28-12-2023,Salary Credit,,,65000,186600
+418,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,31-12-2023,23:59:00,31-12-2023,Quarterly Interest Credit,,,1866,188466
+419,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,03-01-2024,10:20:00,03-01-2024,New Year Shopping,,8500,,179966
+420,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,08-01-2024,12:45:00,08-01-2024,Mobile Recharge,,999,,178967
+421,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,13-01-2024,16:15:00,13-01-2024,ATM Withdrawal - Bandra West,,6000,,172967
+422,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,17-01-2024,9:30:00,17-01-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,150967
+423,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-01-2024,14:10:00,22-01-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,138467
+424,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-01-2024,11:00:00,26-01-2024,UPI-BOOKMYSHOW-MOVIE123,,1200,,137267
+425,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-01-2024,9:30:00,28-01-2024,Salary Credit,,,65000,202267
+426,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,02-02-2024,15:30:00,02-02-2024,Gym Membership Renewal,,12000,,190267
+427,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,07-02-2024,13:20:00,07-02-2024,Electricity Bill Payment,,2400,,187867
+428,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,12-02-2024,10:45:00,12-02-2024,ATM Withdrawal - Goregaon,,5000,,182867
+429,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,17-02-2024,16:00:00,17-02-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,160867
+430,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-02-2024,9:30:00,22-02-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,148367
+431,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-02-2024,14:15:00,26-02-2024,Online Shopping - Flipkart,,4500,,143867
+432,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-02-2024,9:30:00,28-02-2024,Salary Credit,,,65000,208867
+433,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,04-03-2024,11:30:00,04-03-2024,Health Insurance Premium,,18000,,190867
+434,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,09-03-2024,15:45:00,09-03-2024,ATM Withdrawal - Vile Parle,,6000,,184867
+435,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,14-03-2024,10:20:00,14-03-2024,Mobile Bill Payment,,1299,,183568
+436,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,18-03-2024,9:30:00,18-03-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,161568
+437,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-03-2024,14:00:00,22-03-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,149068
+438,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-03-2024,16:30:00,26-03-2024,UPI-ZOMATO-ORDER54321,,850,,148218
+439,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-03-2024,9:30:00,28-03-2024,Salary Credit,,,65000,213218
+440,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,31-03-2024,23:59:00,31-03-2024,Quarterly Interest Credit,,,2132.18,215350.18
+441,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,03-04-2024,12:15:00,03-04-2024,Electricity Bill Payment,,2600,,212750.18
+442,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,08-04-2024,10:30:00,08-04-2024,ATM Withdrawal - Dadar,,7000,,205750.18
+443,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,13-04-2024,14:45:00,13-04-2024,Online Shopping - Myntra,,3500,,202250.18
+444,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,17-04-2024,9:30:00,17-04-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,180250.18
+445,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-04-2024,14:00:00,22-04-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,167750.18
+446,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-04-2024,16:20:00,26-04-2024,UPI-SWIGGY-ORDER98765,,1100,,166650.18
+447,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-04-2024,9:30:00,28-04-2024,Salary Credit,,,65000,231650.18
+448,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,03-05-2024,11:00:00,03-05-2024,Travel Booking - MakeMyTrip,,25000,,206650.18
+449,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,08-05-2024,15:30:00,08-05-2024,ATM Withdrawal - Chembur,,5000,,201650.18
+450,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,13-05-2024,10:45:00,13-05-2024,Mobile Recharge,,999,,200651.18
+451,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,17-05-2024,9:30:00,17-05-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,178651.18
+452,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-05-2024,14:00:00,22-05-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,166151.18
+453,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-05-2024,16:45:00,26-05-2024,UPI-BOOKMYSHOW-MOVIE456,,1500,,164651.18
+454,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-05-2024,9:30:00,28-05-2024,Salary Credit,,,65000,229651.18
+455,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,02-06-2024,13:20:00,02-06-2024,Electricity Bill Payment,,2800,,226851.18
+456,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,07-06-2024,11:15:00,07-06-2024,ATM Withdrawal - Powai,,6000,,220851.18
+457,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,12-06-2024,15:00:00,12-06-2024,Online Shopping - Amazon,,4200,,216651.18
+458,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,17-06-2024,9:30:00,17-06-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,194651.18
+459,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-06-2024,14:00:00,22-06-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,182151.18
+460,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-06-2024,16:30:00,26-06-2024,UPI-ZOMATO-ORDER13579,,950,,181201.18
+461,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-06-2024,9:30:00,28-06-2024,Salary Credit,,,65000,246201.18
+462,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,30-06-2024,23:59:00,30-06-2024,Quarterly Interest Credit,,,2462.01,248663.19
+463,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,03-07-2024,10:45:00,03-07-2024,Mobile Bill Payment,,1399,,247264.19
+464,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,08-07-2024,14:30:00,08-07-2024,ATM Withdrawal - Juhu,,8000,,239264.19
+465,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,13-07-2024,11:20:00,13-07-2024,UPI-SWIGGY-ORDER24680,,1300,,237964.19
+466,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,17-07-2024,9:30:00,17-07-2024,NEFT-ICICI-xxxxxxxxxx1234-Home Rent,,22000,,215964.19
+467,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,22-07-2024,14:00:00,22-07-2024,IMPS-HDFC-xxxxxxxxxx5678-Car EMI,,12500,,203464.19
+468,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,26-07-2024,16:15:00,26-07-2024,Online Shopping - Flipkart,,5500,,197964.19
+469,Customer7,1234500007,c7@gmail.com,7,Savings ,Customer_Address7,Branch7,BARB0IFSC7,MICR7,Branch_Address7,28-07-2024,9:30:00,28-07-2024,Salary Credit,,,65000,262964.19
+470,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,01-01-2024,9:15:00,01-01-2024,Cash Deposit,,,100000,100000
+471,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,03-01-2024,14:30:00,03-01-2024,ATM Withdrawal,,5000,,95000
+472,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,07-01-2024,11:45:00,07-01-2024,Online Shopping - Amazon,,2399,,92601
+473,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,12-01-2024,16:20:00,12-01-2024,Electricity Bill Payment,,1850,,90751
+474,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-01-2024,10:00:00,15-01-2024,Salary Credit,,,65000,155751
+475,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,18-01-2024,13:30:00,18-01-2024,Restaurant Payment,,1200,,154551
+476,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,22-01-2024,9:45:00,22-01-2024,Mobile Recharge,,999,,153552
+477,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-01-2024,17:00:00,28-01-2024,SIP Investment,,5000,,148552
+478,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,02-02-2024,11:30:00,02-02-2024,Grocery Shopping,,3500,,145052
+479,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,06-02-2024,14:15:00,06-02-2024,Movie Tickets,,600,,144452
+480,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,10-02-2024,16:45:00,10-02-2024,Gas Bill Payment,,850,,143602
+481,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-02-2024,10:00:00,15-02-2024,Salary Credit,,,65000,208602
+482,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,19-02-2024,12:30:00,19-02-2024,Online Course Payment,,4999,,203603
+483,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,23-02-2024,15:00:00,23-02-2024,Clothing Purchase,,3200,,200403
+484,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-02-2024,17:00:00,28-02-2024,SIP Investment,,5000,,195403
+485,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,04-03-2024,9:30:00,04-03-2024,Health Insurance Premium,,12000,,183403
+486,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,08-03-2024,13:45:00,08-03-2024,Dentist Appointment,,2500,,180903
+487,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,12-03-2024,16:20:00,12-03-2024,Electricity Bill Payment,,1920,,178983
+488,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-03-2024,10:00:00,15-03-2024,Salary Credit,,,65000,243983
+489,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,20-03-2024,11:30:00,20-03-2024,Flight Tickets,,15000,,228983
+490,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,25-03-2024,14:00:00,25-03-2024,Home Appliance Purchase,,22000,,206983
+491,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-03-2024,17:00:00,28-03-2024,SIP Investment,,5000,,201983
+492,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,31-03-2024,23:59:59,31-03-2024,Quarterly Interest Credit,,,2019.83,204002.83
+493,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,03-04-2024,10:15:00,03-04-2024,ATM Withdrawal,,10000,,194002.83
+494,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,07-04-2024,12:45:00,07-04-2024,Restaurant Payment,,1800,,192202.83
+495,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,11-04-2024,15:30:00,11-04-2024,Mobile Bill Payment,,999,,191203.83
+496,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-04-2024,10:00:00,15-04-2024,Salary Credit,,,65000,256203.83
+497,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,19-04-2024,14:20:00,19-04-2024,Online Shopping - Flipkart,,4500,,251703.83
+498,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,23-04-2024,16:45:00,23-04-2024,Car Service,,7500,,244203.83
+499,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-04-2024,17:00:00,28-04-2024,SIP Investment,,5000,,239203.83
+500,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,02-05-2024,9:30:00,02-05-2024,Grocery Shopping,,4200,,235003.83
+501,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,06-05-2024,13:15:00,06-05-2024,Gift Purchase,,3000,,232003.83
+502,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,10-05-2024,15:45:00,10-05-2024,Gas Bill Payment,,920,,231083.83
+503,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-05-2024,10:00:00,15-05-2024,Salary Credit,,,65000,296083.83
+504,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,19-05-2024,11:30:00,19-05-2024,Gym Membership Renewal,,12000,,284083.83
+505,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,23-05-2024,14:00:00,23-05-2024,Furniture Purchase,,35000,,249083.83
+506,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-05-2024,17:00:00,28-05-2024,SIP Investment,,5000,,244083.83
+507,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,02-06-2024,10:15:00,02-06-2024,ATM Withdrawal,,8000,,236083.83
+508,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,06-06-2024,12:45:00,06-06-2024,Restaurant Payment,,2200,,233883.83
+509,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,10-06-2024,15:30:00,10-06-2024,Electricity Bill Payment,,2100,,231783.83
+510,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-06-2024,10:00:00,15-06-2024,Salary Credit,,,65000,296783.83
+511,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,19-06-2024,14:20:00,19-06-2024,Mobile Phone Purchase,,25000,,271783.83
+512,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,23-06-2024,16:45:00,23-06-2024,Hotel Booking,,18000,,253783.83
+513,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-06-2024,17:00:00,28-06-2024,SIP Investment,,5000,,248783.83
+514,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,30-06-2024,23:59:59,30-06-2024,Quarterly Interest Credit,,,2487.84,251271.67
+515,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,03-07-2024,9:45:00,03-07-2024,Grocery Shopping,,3800,,247471.67
+516,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,07-07-2024,13:30:00,07-07-2024,Movie Tickets,,750,,246721.67
+517,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,11-07-2024,16:15:00,11-07-2024,Gas Bill Payment,,980,,245741.67
+518,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,15-07-2024,10:00:00,15-07-2024,Salary Credit,,,65000,310741.67
+519,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,19-07-2024,11:45:00,19-07-2024,Online Transfer Nigeria,,155999,,154742.67
+520,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,28-07-2024,17:00:00,28-07-2024,SIP Investment,,5000,,145242.67
+521,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,31-07-2024,12:00:00,31-07-2024,Cheque Deposit,123456,,20000,165242.67
+522,Customer8,1234500008,c8@gmail.com,8,Savings ,Customer_Address8,Branch8,BARB0IFSC8,MICR8,Branch_Address8,31-07-2024,11:45:00,31-07-2024,Online Transfer Nigeria,,155999,,9243.67
+523,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,03-04-2024,14:30:00,03-04-2024,ATM Withdrawal,,5000,,145000
+524,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,05-04-2024,11:45:00,05-04-2024,Online Shopping - Amazon,,2500,,142500
+525,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,10-04-2024,16:20:00,10-04-2024,Salary Credit,,,65000,207500
+526,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,12-04-2024,10:30:00,12-04-2024,Electricity Bill Payment,,3200,,204300
+527,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,15-04-2024,13:45:00,15-04-2024,SIP Investment,,10000,,194300
+528,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,18-04-2024,9:00:00,18-04-2024,Grocery Shopping,,4500,,189800
+529,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,22-04-2024,17:30:00,22-04-2024,Mobile Recharge,,999,,188801
+530,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,28-04-2024,12:15:00,28-04-2024,Restaurant Bill,,3500,,185301
+531,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,02-05-2024,10:00:00,02-05-2024,ATM Withdrawal,,7000,,178301
+532,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,05-05-2024,14:45:00,05-05-2024,Online Shopping - Flipkart,,3800,,174501
+533,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,10-05-2024,16:30:00,10-05-2024,Salary Credit,,,65000,239501
+534,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,13-05-2024,11:00:00,13-05-2024,Gas Bill Payment,,1200,,238301
+535,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,15-05-2024,13:45:00,15-05-2024,SIP Investment,,10000,,228301
+536,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,18-05-2024,15:20:00,18-05-2024,Movie Tickets,,1500,,226801
+537,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,22-05-2024,9:30:00,22-05-2024,Cheque Deposit,123456,,20000,246801
+538,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,26-05-2024,12:00:00,26-05-2024,Health Insurance Premium,,12000,,234801
+539,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,30-05-2024,16:45:00,30-05-2024,Train Ticket Booking,,3500,,231301
+540,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,03-06-2024,10:15:00,03-06-2024,ATM Withdrawal,,6000,,225301
+541,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,06-06-2024,14:00:00,06-06-2024,Online Course Payment,,8000,,217301
+542,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,10-06-2024,16:30:00,10-06-2024,Salary Credit,,,65000,282301
+543,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,12-06-2024,11:30:00,12-06-2024,Electricity Bill Payment,,3500,,278801
+544,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,15-06-2024,13:45:00,15-06-2024,SIP Investment,,10000,,268801
+545,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,18-06-2024,9:45:00,18-06-2024,Grocery Shopping,,5200,,263601
+546,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,22-06-2024,17:00:00,22-06-2024,Mobile Recharge,,1499,,262102
+547,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,26-06-2024,12:30:00,26-06-2024,Car Service,,7500,,254602
+548,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,30-06-2024,18:00:00,30-06-2024,Quarterly Interest Credit,,,2546.02,257148.02
+549,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,02-07-2024,10:30:00,02-07-2024,ATM Withdrawal,,8000,,249148.02
+550,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,05-07-2024,15:15:00,05-07-2024,Online Shopping - Myntra,,4500,,244648.02
+551,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,10-07-2024,16:30:00,10-07-2024,Salary Credit,,,65000,309648.02
+552,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,13-07-2024,11:15:00,13-07-2024,Gas Bill Payment,,1300,,308348.02
+553,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,15-07-2024,13:45:00,15-07-2024,SIP Investment,,10000,,298348.02
+554,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,18-07-2024,14:00:00,18-07-2024,Dentist Appointment,,5000,,293348.02
+555,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,22-07-2024,9:00:00,22-07-2024,Cheque Payment,789012,15000,,278348.02
+556,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,26-07-2024,12:45:00,26-07-2024,Home Internet Bill,,1999,,276349.02
+557,Customer9,1234500009,c9@gmail.com,9,Savings ,Customer_Address9,Branch9,BARB0IFSC9,MICR9,Branch_Address9,30-07-2024,16:30:00,30-07-2024,Flight Ticket Booking,,12000,,264349.02
+558,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,18-09-2023,14:30:45,18-09-2023,Electricity Bill Payment,,1250,,48750
+559,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,22-09-2023,11:15:30,22-09-2023,ATM Withdrawal,,5000,,43750
+560,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,25-09-2023,16:45:22,25-09-2023,Online Shopping - Amazon,,3500,,40250
+561,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,30-09-2023,9:30:00,30-09-2023,Salary Credit,,,65000,105250
+562,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-10-2023,10:00:15,01-10-2023,SIP Investment,,10000,,95250
+563,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,05-10-2023,13:20:40,05-10-2023,Mobile Recharge,,999,,94251
+564,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,10-10-2023,18:30:55,10-10-2023,Grocery Shopping,,3500,,90751
+565,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,15-10-2023,20:45:30,15-10-2023,Restaurant Bill Payment,,2500,,88251
+566,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,20-10-2023,11:00:00,20-10-2023,Cheque Deposit,123456,,25000,113251
+567,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-10-2023,9:30:00,31-10-2023,Salary Credit,,,65000,178251
+568,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-11-2023,10:00:15,01-11-2023,SIP Investment,,10000,,168251
+569,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,05-11-2023,14:30:20,05-11-2023,Insurance Premium,,12000,,156251
+570,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,12-11-2023,16:45:35,12-11-2023,Electricity Bill Payment,,1300,,154951
+571,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,18-11-2023,9:15:50,18-11-2023,Online Course Fee,,15000,,139951
+572,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,22-11-2023,12:30:00,22-11-2023,ATM Withdrawal,,7000,,132951
+573,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,30-11-2023,9:30:00,30-11-2023,Salary Credit,,,65000,197951
+574,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-12-2023,10:00:15,01-12-2023,SIP Investment,,10000,,187951
+575,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,07-12-2023,15:20:30,07-12-2023,Flight Ticket Booking,,18000,,169951
+576,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,12-12-2023,11:45:40,12-12-2023,Gas Bill Payment,,850,,169101
+577,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,18-12-2023,17:30:55,18-12-2023,Clothing Purchase,,5500,,163601
+578,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,23-12-2023,20:00:10,23-12-2023,Movie Tickets,,1200,,162401
+579,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,28-12-2023,14:15:25,28-12-2023,Cheque Payment,789012,20000,,142401
+580,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,30-12-2023,9:30:00,30-12-2023,Salary Credit,,,65000,207401
+581,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-12-2023,23:59:59,31-12-2023,Quarterly Interest Credit,,,2074.01,209475.01
+582,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-01-2024,10:00:15,01-01-2024,SIP Investment,,10000,,199475.01
+583,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,08-01-2024,13:30:30,08-01-2024,Electricity Bill Payment,,1350,,198125.01
+584,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,14-01-2024,16:45:45,14-01-2024,Home Appliance Purchase,,25000,,173125.01
+585,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,20-01-2024,11:00:00,20-01-2024,ATM Withdrawal,,6000,,167125.01
+586,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,26-01-2024,9:15:15,26-01-2024,Medical Expenses,,8500,,158625.01
+587,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-01-2024,9:30:00,31-01-2024,Salary Credit,,,65000,223625.01
+588,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-02-2024,10:00:15,01-02-2024,SIP Investment,,10000,,213625.01
+589,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,07-02-2024,14:30:30,07-02-2024,Car Service,,7500,,206125.01
+590,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,13-02-2024,16:45:45,13-02-2024,Electricity Bill Payment,,1280,,204845.01
+591,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,19-02-2024,11:00:00,19-02-2024,Grocery Shopping,,4200,,200645.01
+592,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,24-02-2024,18:15:15,24-02-2024,Restaurant Bill Payment,,3000,,197645.01
+593,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,29-02-2024,9:30:00,29-02-2024,Salary Credit,,,65000,262645.01
+594,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-03-2024,10:00:15,01-03-2024,SIP Investment,,10000,,252645.01
+595,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,06-03-2024,13:30:30,06-03-2024,Mobile Recharge,,1099,,251546.01
+596,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,12-03-2024,16:45:45,12-03-2024,Online Shopping - Flipkart,,5500,,246046.01
+597,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,18-03-2024,11:00:00,18-03-2024,ATM Withdrawal,,8000,,238046.01
+598,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,23-03-2024,14:15:15,23-03-2024,Clothing Purchase,,6500,,231546.01
+599,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,28-03-2024,17:30:30,28-03-2024,Electricity Bill Payment,,1320,,230226.01
+600,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-03-2024,9:30:00,31-03-2024,Salary Credit,,,65000,295226.01
+601,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-03-2024,23:59:59,31-03-2024,Quarterly Interest Credit,,,2952.26,298178.27
+602,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-04-2024,10:00:15,01-04-2024,SIP Investment,,10000,,288178.27
+603,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,06-04-2024,13:30:30,06-04-2024,Insurance Premium,,12500,,275678.27
+604,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,12-04-2024,16:45:45,12-04-2024,Gas Bill Payment,,900,,274778.27
+605,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,18-04-2024,11:00:00,18-04-2024,Movie Tickets,,1500,,273278.27
+606,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,23-04-2024,14:15:15,23-04-2024,Grocery Shopping,,4500,,268778.27
+607,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,28-04-2024,17:30:30,28-04-2024,Restaurant Bill Payment,,3500,,265278.27
+608,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,30-04-2024,9:30:00,30-04-2024,Salary Credit,,,65000,330278.27
+609,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-05-2024,10:00:15,01-05-2024,SIP Investment,,10000,,320278.27
+610,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,07-05-2024,13:30:30,07-05-2024,Electricity Bill Payment,,1380,,318898.27
+611,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,13-05-2024,16:45:45,13-05-2024,Online Course Fee,,18000,,300898.27
+612,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,19-05-2024,11:00:00,19-05-2024,ATM Withdrawal,,7500,,293398.27
+613,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,24-05-2024,14:15:15,24-05-2024,Clothing Purchase,,4800,,288598.27
+614,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,29-05-2024,17:30:30,29-05-2024,Mobile Recharge,,1199,,287399.27
+615,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-05-2024,9:30:00,31-05-2024,Salary Credit,,,65000,352399.27
+616,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-06-2024,10:00:15,01-06-2024,SIP Investment,,10000,,342399.27
+617,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,06-06-2024,13:30:30,06-06-2024,Flight Ticket Booking,,22000,,320399.27
+618,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,12-06-2024,16:45:45,12-06-2024,Grocery Shopping,,5000,,315399.27
+619,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,18-06-2024,11:00:00,18-06-2024,Restaurant Bill Payment,,4000,,311399.27
+620,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,23-06-2024,14:15:15,23-06-2024,Electricity Bill Payment,,1420,,309979.27
+621,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,28-06-2024,17:30:30,28-06-2024,ATM Withdrawal,,9000,,300979.27
+622,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,30-06-2024,9:30:00,30-06-2024,Salary Credit,,,65000,365979.27
+623,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,30-06-2024,23:59:59,30-06-2024,Quarterly Interest Credit,,,3659.79,369639.06
+624,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,01-07-2024,10:00:15,01-07-2024,SIP Investment,,10000,,359639.06
+625,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,07-07-2024,13:30:30,07-07-2024,Gas Bill Payment,,950,,358689.06
+626,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,13-07-2024,16:45:45,13-07-2024,Online Shopping - Amazon,,7500,,351189.06
+627,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,19-07-2024,11:00:00,19-07-2024,Movie Tickets,,1800,,349389.06
+628,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,24-07-2024,14:15:15,24-07-2024,Clothing Purchase,,5200,,344189.06
+629,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,29-07-2024,17:30:30,29-07-2024,Electricity Bill Payment,,1450,,342739.06
+630,Customer10,1234500010,c10@gmail.com,10,Savings ,Customer_Address10,Branch10,BARB0IFSC10,MICR10,Branch_Address10,31-07-2024,9:30:00,31-07-2024,Salary Credit,,,65000,407739.06

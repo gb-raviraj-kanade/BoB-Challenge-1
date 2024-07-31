@@ -1,0 +1,11 @@
+llama-index==0.10.55
+llama-index-llms-azure-openai==0.1.10
+llama-index-embeddings-huggingface==0.2.2
+llama-index-callbacks-arize-phoenix==0.1.6
+python-dotenv==1.0.1
+chainlit==1.1.306
+pydub==0.25.1
+streamlit==1.36.0
+streamlit-aggrid==1.0.5
+azure-cognitiveservices-speech==1.38.0
+flask[async]==3.0.3

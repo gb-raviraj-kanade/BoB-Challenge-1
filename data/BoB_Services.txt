@@ -1,0 +1,37 @@
+1. Accounts
+	- Savings Accounts
+	- Salary Accounts
+	- Current Accounts
+	- Term Deposit
+2. Loans
+	- Home Loan
+	- Vehicle Loan
+	- Personal Loans
+	- Baroda Yoddha Loans for Defence Personnel
+	- Education Loan
+	- Gold Loan
+	- Mortgage Loan
+3. Investments
+	- Government Deposit Schemes/Bonds
+	- Investment Products
+		- Mutual Funds
+		- Alternate Investment Products
+		- Baroda 3 in 1 Demat & Trading Account
+		- Demat Account
+4. Insurance
+	- General Insurance
+	- Life Insurance
+	- Standalone Health Insurance
+5. Digital Products
+	- Digital Payment
+	- Cards
+		- Credit Card
+		- Debit Cards
+		- Prepaid Cards
+	- Instant Banking
+	- Merchant Payment Solutions
+6. Miscellaneous
+	- Adhar Seva Kendra
+	- Custom Duty Payment
+	- e-stamping
+	- Fintech Alliance

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Assistant</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #f26522;
+            background-color: #f2652285;
+        }
+        #container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .col_call, .col_mic {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .btn_call, .btn_mic {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .btn_mic {
+            font-size: 24px;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: none;
+            background-color: #007bff;
+            color: white;
+        }
+        .select_call {
+            padding: 5px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1>Customer Assistant</h1>
+        </header>
+        <div id="main">
+            <div class="col_call">
+                <label class="label_call" for="customerSelect">Select Customer: </label>
+                <select class="select_call" id="customerSelect">
+                    <option value="" selected disabled>Select a customer</option>
+                    <option value="1">Customer 1</option>
+                    <option value="2">Customer 2</option>
+                    <option value="3">Customer 3</option>
+                    <option value="4">Customer 4</option>
+                    <option value="5">Customer 5</option>
+                    <option value="6">Customer 6</option>
+                    <option value="7">Customer 7</option>
+                    <option value="8">Customer 8</option>
+                    <option value="9">Customer 9</option>
+                    <option value="10">Customer 10</option>
+                </select>
+            </div>
+            <div class="col_call">
+                <label class="label_call" for="languageSelect">Select Language: </label>
+                <select class="select_call" id="languageSelect">
+                    <option value="" selected disabled>Select a Language</option>
+                    <option value="English">English</option>
+                    <option value="Hindi">Hindi</option>
+                    <option value="Bengali">Bengali</option>
+                    <option value="Gujarati">Gujarati</option>
+                    <option value="Kannada">Kannada</option>
+                    <option value="Malayalam">Malayalam</option>
+                    <option value="Marathi">Marathi</option>
+                    <option value="Punjabi">Punjabi</option>
+                    <option value="Tamil">Tamil</option>
+                    <option value="Telugu">Telugu</option>
+                    <option value="Urdu">Urdu</option>
+                </select>
+            </div>
+            <div class="col_call">
+                <button class="btn_call" id="startCallButton" onclick="startCall()">Start Call</button>
+            </div>
+            <div class="col_mic">
+                <button class="btn_mic" id="recordButton" onclick="toggleRecording()" title="Speak" disabled>
+                    <i class="fas fa-microphone" id="recordIcon"></i>
+                </button>   
+            </div>
+            <div class="col_call">
+                <button class="btn_call" id="endCallButton" onclick="endCall()" disabled>End Call</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
+        let mediaRecorder;
+        let chunks = [];
+        let isRecording = false;
+        let recordedChunks = [];
+        let output_audio_uid;
+
+        function customerSelected() {
+            const customerSelect = document.getElementById('customerSelect');
+            const languageSelect = document.getElementById('languageSelect');
+            const startCallButton = document.getElementById('startCallButton');
+            const recordButton = document.getElementById('recordButton');
+            const endCallButton = document.getElementById('endCallButton');
+            
+            if (customerSelect.value) {
+                startCallButton.style.display = 'inline';
+                recordButton.style.display = 'inline';
+                endCallButton.style.display = 'inline';
+            } else {
+                startCallButton.style.display = 'none';
+                recordButton.style.display = 'none';
+                endCallButton.style.display = 'none';
+            }
+        }
+
+        function startCall() {
+            const recordButton = document.getElementById('recordButton');
+            const endCallButton = document.getElementById('endCallButton');
+
+            recordButton.disabled = false;
+            endCallButton.disabled = false;
+
+            // Send request to server to start call
+            const customerSelect = document.getElementById('customerSelect');
+            const languageSelect = document.getElementById('languageSelect');
+            fetch('/call/start_call', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ customer_id: customerSelect.value, language: languageSelect.value }),
+            }).then(response => response.json())
+            .then(data => {
+                console.log(data.message);
+            });
+        }
+
+        function endCall() {
+            const recordButton = document.getElementById('recordButton');
+            const endCallButton = document.getElementById('endCallButton');
+
+            recordButton.disabled = true;
+            endCallButton.disabled = true;
+
+            // Send request to server to end call
+            const customerSelect = document.getElementById('customerSelect');
+            fetch('/call/end_call', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ customer_id: customerSelect.value }),
+            }).then(response => response.json())
+            .then(data => {
+                console.log(data.message);
+            });
+
+            if (isRecording) {
+                mediaRecorder.stop();
+                isRecording = false;
+                document.getElementById('recordIcon').classList.remove('fa-stop');
+                document.getElementById('recordIcon').classList.add('fa-microphone');
+            }
+        }
+
+        function toggleRecording() {
+            event.preventDefault();
+            if (isRecording) {
+                // Stop recording
+                mediaRecorder.stop();
+                isRecording = false;
+                document.getElementById('recordIcon').classList.remove('fa-stop');
+                document.getElementById('recordIcon').classList.add('fa-microphone');
+            } else {
+                // Start recording
+                navigator.mediaDevices.getUserMedia({ audio: true })
+                .then(function(stream) {
+                    mediaRecorder = new MediaRecorder(stream);
+                    mediaRecorder.ondataavailable = function(event) {
+                        if (event.data.size > 0) {
+                            recordedChunks.push(event.data);
+                        }
+                    };
+                    mediaRecorder.onstop = function() {
+                        // Save the recorded audio
+                        saveRecording();
+                    };
+                    mediaRecorder.start();
+                    isRecording = true;
+                    document.getElementById('recordIcon').classList.remove('fa-microphone');
+                    document.getElementById('recordIcon').classList.add('fa-stop');
+                })
+                .catch(function(error) {
+                    console.error('Error accessing microphone:', error);
+                });
+            }
+        }
+
+        function showLoadingMessage() {
+            document.getElementById('recordIcon').classList.remove('fa-microphone');
+            document.getElementById('recordIcon').classList.add('fa-spinner');
+        }
+
+        function hideLoadingMessage() {
+            document.getElementById('recordIcon').classList.remove('fa-spinner');
+            document.getElementById('recordIcon').classList.add('fa-microphone');
+        }
+
+        function playAudio() {
+            var audio = new Audio('/call/fetch_audio/' + output_audio_uid);
+            console.log(audio.src);
+            audio.play()
+                .then(() => {
+                    console.log('Audio played successfully');
+                })
+                .catch(error => {
+                    console.error('Error playing audio:', error);
+                });
+        }
+
+
+        async function saveRecording() {
+            if (recordedChunks.length === 0) {
+                return;
+            }
+            
+            // Combine the recorded chunks into a single Blob
+            const blob = new Blob(recordedChunks, { type: 'audio/wav' });
+            
+            // Create FormData to send the audio file to the server
+            const formData = new FormData();
+            formData.append('audio', blob, 'recorded_audio.wav');
+            is_sst_valid = true;
+            // Send a POST request to the Flask server
+            await fetch('/call/saverecordedaudio', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {        
+                const date = new Date();
+                const hour = date.getHours();
+                const minute = date.getMinutes();
+                const str_time = hour+":"+minute;
+                if (data.status == 'success'){
+                    var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + data.user + '<span class="msg_time_send">'+ str_time + '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
+                    $("#messageFormeight").append($.parseHTML(userHtml));
+                    userMessage = data.user
+                    console.log('Server response:', data, is_sst_valid);
+                }
+                else{
+                    is_sst_valid = false
+                    var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data.message + '<span class="msg_time">' + str_time + '</span></div></div>';
+                $("#messageFormeight").append($.parseHTML(botHtml));
+                }
+
+            })
+            .catch(error => {
+                console.error('Error sending audio to server:', error);
+                const date = new Date();
+                const hour = date.getHours();
+                const minute = date.getMinutes();
+                const str_time = hour+":"+minute;
+                var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + error.message + '<span class="msg_time">' + str_time + '</span></div></div>';
+                $("#messageFormeight").append($.parseHTML(botHtml));
+            })
+            .finally(() => {
+                // Clear the recorded chunks for the next recording
+                recordedChunks = [];
+            });	
+
+            if (is_sst_valid){
+                const requestData = {text: userMessage}
+                console.log("@ 219", requestData)
+                await fetch('/call/get_response', {
+                    method: 'POST',
+                    headers: {
+                        'Accept': 'application/json',
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(requestData)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Server response:', data);
+                    const date = new Date();
+                    const hour = date.getHours();
+                    const minute = date.getMinutes();
+                    const str_time = hour+":"+minute;
+                    var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://i.ibb.co/fSNP7Rz/icons8-chatgpt-512.png" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data.assistant + '<span class="msg_time">' + str_time + '</span></div></div>';
+                    $("#messageFormeight").append($.parseHTML(botHtml));
+                    output_audio_uid = data.audio_uid;
+                    playAudio();
+                })
+                .catch(error => {
+                    console.error('Error sending data to server:', error);
+                })
+                .finally(() => {
+                    userMessage = ""
+                });
+            }
+        }
+    </script>
+</body>
+</html>
