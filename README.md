@@ -54,4 +54,111 @@ To demonstrate this functionality, users can generate customer-specific content 
 
 In this demonstration, clicking the "Scan" button initiates a database scan. The application then displays a list of customers flagged for potential cash flow issues or suspicious transactions. Selecting a specific customer from the list generates an email alongside a notification. The notification can be interpreted as a communication through text message, WhatsApp message, or BoB mobile app notification. 
 
+
  
+**Folder Structure and Code Description:**
+
+ 
+
+data > BOB_FAQs > Contains the Bank of Baroda FAQs in Markdown format which were used for ingestion in RAG. 
+
+data > transactions.csv > Contains the dummy transactions for 10 customers which can be updated through the "database" dashboard. 
+
+data > transactions_og.csv > Contains the original copy of dummy transactions for 10 customers. 
+
+index > Contains the Vector Embeddings index of FAQs for RAG. 
+
+pages > Proactive_Assistance.py > Represents the second page of Personalization and Proactive Assistance Application. 
+
+templates > index.html > Represents the landing page of Call Application. 
+
+Transaction_DB.py > Contains the "database" dashboard code for displaying/updating the dummy transactions for 10 customers. 
+
+chat_app.py > Contains the Multilingual Chat Application code. 
+
+call_app.py > Contains the Multilingual Call Application code. 
+
+main.py > Contains the backend server code which serves API requests for "p&passistant". 
+
+Personalization.py > Contains the Personalization and Proactive Assistance Application code. 
+
+app > Contains the Source Code for BoB AI Assist. 
+
+
+ 
+
+**Installation & Execution:**
+
+ 
+
+1. Clone the repository 
+
+```bash 
+
+git clone https://github.com/gb-raviraj-kanade/BoB-Challenge-1.git 
+
+``` 
+
+ 
+
+2. Install the requirements 
+
+```bash 
+
+pip install -r requirements.txt 
+
+``` 
+
+ 
+
+3. Rename the .env.example to .env and add all the Keys 
+
+ 
+
+4. Start the "database" dashboard 
+
+```bash 
+
+streamlit run Transaction_DB.py --server.headless true --server.address "127.0.0.1" --server.port 8501 --server.baseUrlPath "/database" --client.showSidebarNavigation False 
+
+``` 
+
+ 
+
+5. Start the Multilingual Chat Application 
+
+```bash 
+
+chainlit run cl_app.py --host 127.0.0.1 --port "8000" --headless --root-path "/chat" 
+
+``` 
+
+ 
+
+6. Start the Multilingual Call Application 
+
+```bash 
+
+python3 call_app.py 
+
+``` 
+
+ 
+
+7. Start the backend server which serves API requests for "p&passistant" 
+
+```bash 
+
+python3 main.py 
+
+``` 
+
+ 
+
+8. Start the Personalization and Proactive Assistance Application (p&passistant) 
+
+```bash 
+
+streamlit run Personalization.py --server.headless true --server.address "127.0.0.1" --server.port 8502 --server.baseUrlPath "/p&passistant" 
+
+``` 
